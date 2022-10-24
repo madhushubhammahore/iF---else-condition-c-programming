@@ -1,4 +1,3 @@
-# iF---else-condition-c-programming
 #include<stdio.h>
  int main (){
      int number;
